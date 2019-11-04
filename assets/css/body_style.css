@@ -1,0 +1,45 @@
+.mySlides {display:none;}
+
+.slide{
+    float: left;
+    max-width: 100%;
+    margin: 2%;
+
+}
+
+.slide_right img{
+    position: relative;
+    float: right;
+    padding:0;
+    margin:4.5%;
+ 
+}
+
+.brand_banner{
+ clear:both;
+ padding:5px 20px;
+
+}
+
+.brand_banner img{
+    max-width: 200px;
+}
+
+.branch{
+    float: left;
+    width: 33.33%;
+}
+
+.social-media h3{
+    padding: 0px 20px;
+    
+}
+
+hr{
+    border: grey solid 1px;
+    margin: 5px;
+}
+
+.about{
+    margin: 20px;
+}
